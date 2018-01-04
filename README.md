@@ -1,3 +1,5 @@
+# AutoVoice
+
 This plugin sets channel modes on users when they join the channel 
 depending on the configuration.
 

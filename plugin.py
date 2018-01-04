@@ -1,6 +1,7 @@
 ###
 # Copyright (c) 2004, Jeremiah Fincher
 # Copyright (c) 2009, James McCoy
+# Copyright (c) 2017, verr <verr@2904.cc>
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without
